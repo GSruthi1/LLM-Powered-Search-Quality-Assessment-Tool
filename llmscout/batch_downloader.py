@@ -3,6 +3,7 @@ import os
 from scripts.downloader import PaperDownloader
 from scripts.logger import setup_logger
 
+##
 def download_from_results(results_dir: str):
     """从已有的结果目录下载论文"""
     logger = setup_logger('download_papers')

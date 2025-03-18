@@ -1,5 +1,5 @@
 # Contributing to LLMScout
-
+#
 We love your input! We want to make contributing to LLMScout as easy and transparent as possible, whether it's:
 
 - Reporting a bug

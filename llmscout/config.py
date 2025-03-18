@@ -6,7 +6,7 @@ from typing import Optional
 
 from dotenv import load_dotenv
 
-
+##
 def load_config(env_file: Optional[str] = None) -> dict:
     """Load configuration from environment variables.
     

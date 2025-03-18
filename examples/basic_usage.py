@@ -8,6 +8,7 @@ This example demonstrates how to:
 4. Access and process the results
 """
 
+
 from llmscout import ResearchPipeline
 
 def main():

@@ -7,6 +7,7 @@ This example demonstrates how to:
 3. Handle the results programmatically
 """
 
+
 from llmscout.generator import KeywordGenerator
 from llmscout.crawler import ArxivCrawler
 from llmscout.analyzer import AbstractAnalyzer

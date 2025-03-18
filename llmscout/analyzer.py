@@ -5,6 +5,7 @@ import json
 import time
 from .logger import setup_logger
 
+##This is for initialization
 class AbstractAnalyzer:
     def __init__(self, config_path: str = 'config/api_keys.yaml'):
         self.logger = setup_logger('abstract_analyzer')

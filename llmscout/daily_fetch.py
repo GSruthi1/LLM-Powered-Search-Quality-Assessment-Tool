@@ -10,6 +10,8 @@ from tqdm import tqdm
 import os
 import sys
 
+
+##
 class NotificationManager:
     def send_mac_notification(self, title: str, message: str):
         """Send Mac notification"""

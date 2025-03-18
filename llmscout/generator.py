@@ -6,6 +6,8 @@ from pathlib import Path
 from datetime import datetime
 from .logger import setup_logger
 
+
+##
 class KeywordGenerator:
     def __init__(self, config_path: str = 'config/api_keys.yaml'):
         self.logger = setup_logger('keyword_generator')
